@@ -1,2 +1,3 @@
 # cambieLoader
-a loader for games 
+
+taking all you game filles and makes into a folder
